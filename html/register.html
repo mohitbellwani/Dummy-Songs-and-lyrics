@@ -1,0 +1,102 @@
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<title>
+Login page
+</title>
+<style>
+.margin {
+margin: 10% 10% 10% 10%;
+background-image: url("reg/images/bg.jpg");
+background-size: 100% 100%;
+}
+.form{
+color:#fff;
+}
+body{
+background-image:url("reg/images/bg.jpg");
+background-repeat: no-repeat; 
+background-size: cover;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #000;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #fff;
+	color: #000
+}
+.active{
+    background-color: #999;
+	color: #333
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+</style>
+</head>
+<body>
+<div class="sticky">
+<ul>
+  <li><a href="home.html">Home</a></li>
+  <li><a href="list.html">List</a></li>
+  <li><a href="home.html#contact">Contact</a></li>
+  <li><a href="home.html#about">About</a></li>
+  <li><a href="Login.html">Login</a></li>
+  <li><a class="active" href="register.html">Register</a></li>
+  <li><a href="youtube.html">Youtube Links</a></li>
+</ul>
+<div>
+<div  class="margin" align="center">
+<h1 style="font-family:Comic Sans Ms;color: #fff;text-align="center";font-size:20pt>
+sign up for Songs and Lyrics
+</h1><br>
+<form class ="form" name="Login">
+Username<input type="text" name="userid"/><br><br>
+Password<input type="password" name="password"/><br><br>
+confirm Password<input type="password" name="cpassword"/><br><br>
+<input type="button" onclick="check(this.form)" value="signup"/>
+<input type="reset" value="Cancel"/>
+</form>
+</div>
+<script language="javascript">
+function check(form)
+{
+  if(form.password.value == form.cpassword.value)
+  {
+    window.open('signedup.html')
+  }
+ else
+ {
+   alert("Error Password mismatch")
+  }
+}
+</script>
+</body>
+</html>

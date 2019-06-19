@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"> V.E.S. COLLEGE OF ARTS,SCIENCE & COMMERCE MUMBAI-71</P><BR>
+<img src="goku.jpeg"> 
+<a href="google.html">back</a>
+</body>
+</html>

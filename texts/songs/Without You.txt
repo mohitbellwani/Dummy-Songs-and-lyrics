@@ -1,0 +1,102 @@
+<html>
+<head>
+<style>
+.parallax1 {
+    background-image: url("images/wt2.jpg");
+
+    min-height: 50%; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin:0;
+}
+.parallax2 {
+    background-image: url("images/wt3.jpg");
+
+    min-height: 60%; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+margin:0;
+}
+.parallax3 {
+    background-image: url("images/wt1.jpg");
+
+    min-height: 45%; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+margin:0;
+}
+</style>
+</head>
+<body>
+
+
+<center>
+
+<div style="height:0px;background-color:powderblue;">
+<H1 style="color:white"><center>Without You.<center></H1>
+
+<p style="color:white;">I can't win, I can't reign<br>
+I will never win this game<br>
+Without you, without you<br>
+I am lost, I am vain,<br>
+I will never be the same<br>
+Without you, without you<br>
+I won't run, I won't fly<br>
+I will never make it by<br>
+Without you, without you<br>
+I can't rest, I can't fight<br>
+All I need is you and I,<br>
+Without you, without you<br></p>
+</div>
+
+<div class="parallax1"></div>
+
+<div style="height:0px;background-color:powderblue;">
+<p style="color:black;">Oh oh oh!<br>
+You! You! You!<br>
+Without...<br>
+You! You! You!<br>
+Without...you<br>
+Can't erase, so I'll take blame<br>
+But I can't accept that we're estranged<br>
+Without you, without you<br>
+I can't quit now, this can't be right<br>
+I can't take one more sleepless night<br>
+Without you, without you<br></p>
+</div>
+
+<div class="parallax3"></div>
+
+<div style="height:0px;background-color:powderblue;">
+<p style="color:cyan;">I won't soar, I won't climb<br>
+If you're not here, I'm paralyzed<br>
+Without you, without you<br>
+I can't look, I'm so blind<br>
+I lost my heart, I lost my mind<br>
+Without you, without you<br>
+Oh oh oh!<br>
+You! You! You!<br>
+Without...<br>
+You! You! You!<br>
+Without...you<br>
+I am lost, I am vain,<br>
+I will never be the same<br>
+Without you, without you<br>
+Without...you<br>
+
+</p></div>
+
+<div class="parallax2"></div>
+
+</Center>
+</body>
+</html>

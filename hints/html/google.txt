@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+<head>
+</head>
+<body>
+<p align="center"> V.E.S. COLLEGE OF ARTS,SCIENCE & COMMERCE MUMBAI-71</P><BR>
+<a href="TP.html">tp</a>
+</body>
+</html>

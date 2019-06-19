@@ -1,0 +1,65 @@
+<html>
+<head>
+<style>
+.parallax1 {
+    background-image: url("images/maxresdefault.jpg");
+
+    min-height: 540px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin:0;
+}
+.parallax2 {
+    background-image: url("images/coldplay3.jpg");
+
+    min-height: 490px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+margin:0;
+}
+.parallax3 {
+    background-image: url("images/cover.jpg");
+
+    min-height: 490px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+margin:0;
+}
+</style>
+</head>
+<body>
+
+
+<center>
+
+<div style="height:0px;background-color:powderblue;">
+<H1 style="color:white"><center>Something just like this.<center></H1>
+
+
+</div>
+
+<div class="parallax1"></div>
+
+<div style="height:0px;background-color:powderblue;">
+
+</div>
+
+<div class="parallax2"></div>
+
+<div style="height:0px;background-color:powderblue;">
+</div>
+
+<div class="parallax1"></div>
+
+</Center>
+</body>
+</html>

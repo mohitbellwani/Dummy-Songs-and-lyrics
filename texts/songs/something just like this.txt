@@ -1,0 +1,126 @@
+<html>
+<head>
+<style>
+.parallax1 {
+    background-image: url("maxresdefault.jpg");
+
+    min-height: 540px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	margin:0;
+}
+.parallax2 {
+    background-image: url("coldplay3.jpg");
+
+    min-height: 490px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+margin:0;
+}
+.parallax3 {
+    background-image: url("cover.jpg");
+
+    min-height: 490px; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+margin:0;
+}
+</style>
+</head>
+<body>
+
+
+<center>
+
+<div style="height:0px;background-color:powderblue;">
+<H1 style="color:white"><center>Something just like this.<center></H1>
+
+<p style="color:black;">I've been reading books of old<br>
+The legends and the myths<br>
+Achilles and his gold<br>
+Hercules and his gifts<br>
+Spiderman's control<br>
+And Batman with his fists<br>
+And clearly I don't see myself upon that list<br>
+But she said, where'd you wanna go?<br>
+How much you wanna risk?<br>
+I'm not looking for somebody<br>
+With some superhuman gifts<br>
+Some superhero<br>
+Some fairytale bliss<br>
+Just something I can turn to<br>
+Somebody I can kiss<br></p>
+<p style="color:white;"><b><big>I want something just like this</big></b><br>
+Doo-doo-doo, doo-doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br>
+<b><big>Oh, I want something just like this</big></b><br>
+Doo-doo-doo, doo-doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br>
+<b><big>Oh, I want something just like this<br>
+I want something just like this</big></b><br></p>
+</div>
+
+<div class="parallax1"></div>
+
+<div style="height:0px;background-color:powderblue;">
+<p style="color:orange;">I've been reading books of old<br>
+The legends and the myths<br>
+The testaments they told<br>
+The moon and its eclipse<br>
+And Superman unrolls<br>
+A suit before he lifts<br>
+But I'm not the kind of person that it fits<br>
+She said, where'd you wanna go?<br>
+How much you wanna risk?<br>
+I'm not looking for somebody<br>
+With some superhuman gifts<br>
+Some superhero<br>
+Some fairytale bliss<br>
+Just something I can turn to<br>
+Somebody I can miss<br></p>
+<p style="color:white;"><b><big>I want something just like this<br>
+I want something just like this<br>
+I want something just like this</big></b><br>
+Doo-doo-doo, doo-doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br>
+<b><big>Oh, I want something just like this</big></b><br>
+Doo-doo-doo, doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br>
+Doo-doo-doo, doo-doo-doo<br></p>
+</div>
+
+<div class="parallax3"></div>
+
+<div style="height:0px;background-color:powderblue;">
+<p style="color:cyan;">Where'd you wanna go?<br>
+How much you wanna risk?<br>
+I'm not looking for somebody<br>
+With some superhuman gifts<br>
+Some superhero<br>
+Some fairytale bliss<br>
+Just something I can turn to<br>
+Somebody I can kiss<br></p>
+<p style="color:white;"><b><big>I want something just like this<br>
+Oh, I want something just like this<br>
+Oh, I want something just like this<br>
+Oh, I want something just like this</big></b><br>
+
+</p></div>
+
+<div class="parallax2"></div>
+
+</Center>
+</body>
+</html>
